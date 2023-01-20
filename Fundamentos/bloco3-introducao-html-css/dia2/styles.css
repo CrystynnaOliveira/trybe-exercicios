@@ -1,0 +1,27 @@
+h1  
+
+    {color: #e5989b ;
+    font-size: 50px;
+    font-family: sans-serif, Helvetica;}
+
+  .cor-de-fundo {background-color: #ffcdb2 ;}
+
+  p {font-weight: 500;}
+
+  body {font-size: 18px;}
+
+  li 
+    {font-style: italic;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 2em;}
+
+  #vermelho 
+  {background-color: #9e2a2b ;}
+
+  #vermelho-escuro
+   {background-color: #540b0e;}
+
+  #azul
+   {background-color:#83c5be;}
